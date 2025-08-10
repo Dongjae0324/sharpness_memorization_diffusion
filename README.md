@@ -121,6 +121,7 @@ For **Stable Diffusion v2.0**:
 This repository includes utilities from:
 
 - [Yuxin Wen&#39;s diffusion_memorization](https://github.com/YuxinWenRick/diffusion_memorization)
+- [Layer6&#39;s dgm_geometry](https://github.com/layer6ai-labs/dgm_geometry)
 
 Memorized prompts are largely from:
 
