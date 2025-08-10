@@ -1,0 +1,10 @@
+#Python cache
+__pycache__/
+*.pyc
+
+#Folders
+det_outputs/
+miti_outputs/
+
+#Others
+*.pt
